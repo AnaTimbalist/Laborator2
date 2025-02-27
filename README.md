@@ -9,8 +9,8 @@ API-ul oferă operațiuni CRUD pentru Utilizatori, Grupuri și Mesaje.
 1. Clonează depozitul
 Dacă folosești GitHub, poți clona proiectul:
 
-git clone 
-cd social-network-api
+git clone https://github.com/AnaTimbalist/Laborator2.git
+cd Laborator2
 2.  Instalează dependențele
 Execută comanda următoare pentru a instala pachetele necesare:
 
